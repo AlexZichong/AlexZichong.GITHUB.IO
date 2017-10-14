@@ -1,5 +1,5 @@
 # Hello World! 
-Hi my name is Alex, this is my GitHub page.
+Hi my name is Alex, this is my GitHub page.
 
 
 ### Why am I doing this?
